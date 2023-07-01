@@ -27,3 +27,6 @@ npm run dev
 ```sh
 npm run build
 ```
+### para probar cada ejercicio
+
+debes cambia el nombre a App.vue y ejecutar con npm run dev y asi para cada uno
